@@ -19,10 +19,11 @@
   </p>
 
   <p>
+    I can do ponies from all fandoms, except problematic ones,I can also do ocs with enough information about them and how they look. 
+  <p>
     I also accept skin trades and Nitro as payment!
     <br>
-    For more information about skins and such,
-    everything will be discussed on my Discord!
+    For more information about skins and payment,they will be talked in my discord.
   </p>
 
   <a href="https://discord.com/users/YOUR_USER_ID">
