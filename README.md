@@ -6,6 +6,7 @@
   </span>
 </h1>
 
+
 <div align="center">
 
   <h2>Doing Pony Commissions for Supporters</h2>
@@ -25,10 +26,10 @@
   </p>
 
   <a href="https://discord.com/users/YOUR_USER_ID">
-    <strong>✦ DISCORD ✦</strong>
+    ✦ DISCORD: las_vegas777 ✦
   </a>
 
-
-</div>
+<
+  /div>
 
 
