@@ -30,7 +30,7 @@
     ✦ DISCORD: las_vegas777 ✦
   </a>
 
-<
-  /div>
+
+  <div></div>
 
 
